@@ -1,6 +1,6 @@
-# User Centered Design Presentation
+# User Centered Design Präsentation
 
-A presentation for user centered design.
+Präsentation für User Centered Design.
 
 ---
 Licensed under [MIT License](LICENSE.md).
