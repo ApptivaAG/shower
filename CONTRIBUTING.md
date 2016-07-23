@@ -9,5 +9,12 @@ diese Präsentation in Deutsch benötige. In Zukunft hätte ich die Inhalte eben
 
 Die Kommentare und der Code sind in Englisch.
 
+## Contributing
+
+The reason that I have the slides on github is because I would like to have people spread the knowledge of
+User Centered Design. If someone wants to improve or enhance is very welcome!
+
+Contact me on Twitter @pschonholzer!
+
 ---
 Licensed under [MIT License](LICENSE.md).
